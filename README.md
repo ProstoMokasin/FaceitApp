@@ -23,12 +23,15 @@ Use the [**Invite**](https://discord.com/oauth2/authorize?client_id=973146136850
 ### Joining
 
 When the bot has joined your server:
+
 ![-> Faceit App hopped into the server](https://cdn.discordapp.com/attachments/561946340083499015/978328003488653312/unknown.png)
+
 ![Bot on sidebar](https://cdn.discordapp.com/attachments/561946340083499015/978328065195278416/unknown.png)
 
 ### On use
 
 You will be able to write a **!faceit Your_Faceit_Nick** in any channel:
+
 ![!faceit MOKA_X](https://cdn.discordapp.com/attachments/561946340083499015/978328542595153991/unknown.png)
 
 **NOTE:**
@@ -37,11 +40,13 @@ If you get a **message** back saying **"Loading, please wait 🙏"**, then the b
 ### <2000 ELO response
 
 When everything has been processed, then you get this information:
+
 ![MOKA_X Faceit Stats](https://cdn.discordapp.com/attachments/561946340083499015/978328649419853824/unknown.png)
 
 ### 2000+ ELO response
 
 If you otherwise have more than 2000+ ELO, then the stats will look like this:
+
 ![Son1cxxe Faceit Stats](https://cdn.discordapp.com/attachments/561946340083499015/978329108608090143/unknown.png)
 
 ### Parts Explained
